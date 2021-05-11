@@ -1,0 +1,11 @@
+{
+    "manifest_version": 2,
+    "name": "Wordy- Learn fancy words in every new tab!",
+    "version": "0.1",
+    "chrome_url_overrides":{
+        "newtab":"override/index.html"
+    }
+
+     
+
+}
